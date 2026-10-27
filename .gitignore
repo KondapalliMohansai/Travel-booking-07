@@ -1,0 +1,13 @@
+# Dependencies: install these fresh in each environment
+node_modules/
+
+# Vite build output
+dist/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
+.idea/
